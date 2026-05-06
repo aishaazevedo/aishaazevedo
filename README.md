@@ -1,4 +1,4 @@
-# 👩‍💻 Aisha Azevedo | Systems Analysis & Development Student | Exploring C, Java & SQL
+# 👩‍💻 Aisha Azevedo | Systems Analysis & Development Student | Exploring JavaScrpit, Java & SQL
 
 <div align="center">
   <a href="https://github.com/aishaazevedo">
